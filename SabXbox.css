@@ -12,7 +12,7 @@
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+    background: url(https://sabsnake.github.io/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(xbox-assets/trigger.svgz);
+    background: url(https://sabsnake.github.io/trigger.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(xbox-assets/bumper.svgz);
+    background: url(https://sabsnake.github.io/bumper.png);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(xbox-assets/quadrant.svgz);
+    background: url(https://sabsnake.github.io/quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(xbox-assets/start-select.svgz);
+    background: url(https://sabsnake.github.io/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svgz);
+    background: url(https://sabsnake.github.io/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(xbox-assets/dpad.svgz);
+    background: url(https://sabsnake.github.io/dpad.png);
     position: absolute;
     opacity: 0;
 }
