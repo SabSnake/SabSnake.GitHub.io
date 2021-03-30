@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://sabsnake.github.io/SabSnakeXbox.png);
+    background: url(https://SabSnake.GitHub.io/SabSnakeXbox.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(https://sabsnake.github.io/SabSnakeXbox.png);
+    background: url(https://SabSnake.GitHub.io/SabSnakeXbox.png);
 }
 
 .xbox.disconnected {
-    background: url(https://sabsnake.github.io/disconnected.png);
+    background: url(https://SabSnake.GitHub.io/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://sabsnake.github.io/trigger.png);
+    background: url(https://SabSnake.GitHub.io/trigger.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://sabsnake.github.io/bumper.png);
+    background: url(https://SabSnake.GitHub.io/bumper.png);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://sabsnake.github.io/quadrant.png);
+    background: url(https://SabSnake.GitHub.io/quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://sabsnake.github.io/start-select.png);
+    background: url(https://SabSnake.GitHub.io/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://sabsnake.github.io/abxy.png);
+    background: url(https://SabSnake.GitHub.io/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://sabsnake.github.io/Sabthumbstick.png);
+    background: url(https://SabSnake.GitHub.io/Sabthumbstick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(https://sabsnake.github.io/dpad.png);
+    background: url(https://SabSnake.GitHub.io/dpad.png);
     position: absolute;
     opacity: 0;
 }
