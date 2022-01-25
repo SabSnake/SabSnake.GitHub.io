@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://sabsnake.github.io/quadrant.png);
+    background: url();
     height: 45px;
     width: 45px;
     top: 258px;
@@ -147,32 +147,32 @@
 
 .xbox .button.pressed {
     background-position-y: -48px;
-    margin-top: 5px;
+    margin-top: 0px;
     opacity: 1;
 }
 
 .xbox .a {
     background-position: 0 0;
-    top: 108px;
-    left: 55px;
+    top: 112px;
+    left: 53px;
 }
 
 .xbox .b {
     background-position: -49px 0;
-    top: 58px;
-    right: 0px;
+    top: 62px;
+    right: 2px;
 }
 
 .xbox .x {
     background-position: -98px 0;
-    top: 58px;
-    left: 4px;
+    top: 62px;
+    left: 2px;
 }
 
 .xbox .y {
     background-position: 48px 0;
-    left: 55px;
-    top: 7px;
+    left: 53px;
+    top: 12px;
 }
 
 .xbox .sticks {
